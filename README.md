@@ -1,4 +1,4 @@
-## README para la Aplicación Gestor de Tareas
+## Aplicación Gestor de Tareas
 
 ### Descripción General
 
